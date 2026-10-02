@@ -8,6 +8,5 @@ body {
   background-position: center;*/
 
   /*The code commented out just didn't look good on the page... maybe i'll use a color...*/
-  background: linear-gradient(to bottom, #f4f4f4, #eaeaea);
-
+  background-color: #f4f4f4;
 }
