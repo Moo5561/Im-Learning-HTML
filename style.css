@@ -2,8 +2,10 @@ body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
   color: #333333;
-  background-image: url("bliss.jpg");
+  /*background-image: url("bliss.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: center;*/
+
+  /*The code commented out just didn't look good on the page... maybe i'll use a color...*/
 }
