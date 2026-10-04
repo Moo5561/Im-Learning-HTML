@@ -12,12 +12,12 @@ body {
 }
 #title{
   text-shadow: 5px 5px 5px grey;
-  font-family: "Impact";
+  font-family: "CustomImpact";
   text-align: center;
   font-size: 40px
 }
 #desc1{
-  font-family: "Impact";
+  font-family: "CustomImpact";
   text-align: center;
   font-size: 25px
 }
@@ -30,6 +30,13 @@ article{
 .name{
   font-family: "Comic Relief"
 }
+@font-face {
+  font-family: 'CustomImpact';
+  src: url('impact.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+/*i hate google.*/
 #link{
   text-align: center
 }
