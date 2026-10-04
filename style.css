@@ -10,3 +10,26 @@ body {
   /*The code commented out just didn't look good on the page... maybe i'll use a color...*/
   background-color: #f4f4f4;
 }
+#title{
+  text-shadow: 5px 5px 5px grey;
+  font-family: "Impact";
+  text-align: center;
+  font-size: 40px
+}
+#desc1{
+  font-family: "Impact";
+  text-align: center;
+  font-size: 25px
+}
+article{
+  text-align: center
+}
+.date{
+  font-family: "Roboto Mono"
+}
+.name{
+  font-family: "Comic Relief"
+}
+#link{
+  text-align: center
+}
